@@ -29,8 +29,8 @@ This project implements a Mental Health Chatbot that uses **Retrieval-Augmented 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<nishithraut>/<mental-health-chatbot>.git
-cd <mental-health-chatbot>
+git clone https://github.com/nishithraut/Mental-Health-Chatbot.git
+cd Mental-Health-Chatbot
 ```
 
 ### 2. Create a Virtual Environment
